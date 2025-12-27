@@ -147,7 +147,7 @@ export default function Header() {
             sx={{
               display: "flex",
               justifyContent: "flex-end",
-              pr: { xs: 2, md: 18 },
+              pr: { xs: 2, md: 20 },
             }}
           >
             <Typography
