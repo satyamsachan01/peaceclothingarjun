@@ -48,7 +48,7 @@ export default function OurServices({ showHeading = true }) {
                 borderRadius: 0,
                 boxShadow: "none",
                 overflow: "hidden",
-                paddingLeft: 8,
+
                 backgroundColor: "#f6efe4ff",
               }}
             >
